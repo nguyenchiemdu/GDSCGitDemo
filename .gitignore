@@ -1,6 +1,8 @@
 # Prerequisites
 *.d
 
+
+
 # Compiled Object files
 *.slo
 *.lo
@@ -30,3 +32,10 @@
 *.exe
 *.out
 *.app
+
+# Ignore folder Folder 
+Folder/
+# Ignore file abcc.html
+abcc.html
+# Ignore file .env
+*.env
